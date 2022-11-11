@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 627.9" style="enable-background:new 0 0 1920 627.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:url(#SVGID_3_);}
+	.st1{fill:none;}
+	.st2{clip-path:url(#SVGID_5_);fill:url(#SVGID_6_);}
+</style>
+<g>
+	<g>
+		<g>
+			<defs>
+				<rect id="SVGID_1_" y="2.3" width="1920" height="710"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			
+				<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="955.4901" y1="1347.5192" x2="977.1885" y2="-1026.9462" gradientTransform="matrix(1 0 0 -1 0 1630)">
+				<stop  offset="0" style="stop-color:#10ABBA"/>
+				<stop  offset="0.6157" style="stop-color:#18BAA9"/>
+			</linearGradient>
+			<path class="st0" d="M0-232.9h1920l354.1,1036.2c0,0-136.8-155.5-285-280s-319.4-207.7-571-194.2S858.9,695.7,481.5,578
+				s-718.5,74-780,124.4s-55.4,50-55.4,50L0,160.7l-4-389.6C-4-231.1-2.2-232.9,0-232.9z"/>
+		</g>
+	</g>
+</g>
+<rect class="st1" width="1920" height="1299.1"/>
+<g>
+	<g>
+		<g>
+			<defs>
+				<rect id="SVGID_4_" y="-347.7" width="1920" height="1095.2"/>
+			</defs>
+			<clipPath id="SVGID_5_">
+				<use xlink:href="#SVGID_4_"  style="overflow:visible;"/>
+			</clipPath>
+			
+				<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="-353.7" y1="1141.2411" x2="2274" y2="1141.2411" gradientTransform="matrix(1 0 0 -1 0 1630)">
+				<stop  offset="0.2092" style="stop-color:#18BAA9"/>
+				<stop  offset="1" style="stop-color:#0DABBA"/>
+			</linearGradient>
+			<path class="st2" d="M2274,803.1c-53.9-134.5-401.6-596.9-782.3-627.2c-372.7-29.7-666.1,369.9-1161,309.3
+				c-465.5-56.9-663,231.4-684.4,265.8c4.4-4.9,20.5-17.4,56.8-47.1c61.5-50.4,402.6-242.1,780-124.4s685-235.4,936.6-248.8
+				s422.9,69.8,571,194.2C2138.9,649.2,2274,803.1,2274,803.1z"/>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,53 @@
+[20-Aug-2019 04:41:49 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/edunet/public_html/ifcast_new/ifCast_app/models/Usermodel.php on line 63
+[20-Aug-2019 04:41:53 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/edunet/public_html/ifcast_new/ifCast_app/models/Usermodel.php on line 63
+[20-Aug-2019 04:42:38 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/edunet/public_html/ifcast_new/ifCast_app/models/Usermodel.php on line 63
+[11-Oct-2019 10:20:14 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130547712 bytes) in /home/edunet/public_html/ifcast_new/ifCast_app/views/profile/education_details.php on line 315
+[11-Oct-2019 10:20:18 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130547712 bytes) in /home/edunet/public_html/ifcast_new/ifCast_app/views/profile/education_details.php on line 315
+[11-Oct-2019 10:20:40 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130547712 bytes) in /home/edunet/public_html/ifcast_new/ifCast_app/views/profile/education_details.php on line 313
+[11-Oct-2019 10:20:53 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130547712 bytes) in /home/edunet/public_html/ifcast_new/ifCast_app/views/profile/education_details.php on line 313
+[11-Oct-2019 10:21:00 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130547712 bytes) in /home/edunet/public_html/ifcast_new/ifCast_app/views/profile/education_details.php on line 308
+[11-Oct-2019 10:21:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130547712 bytes) in /home/edunet/public_html/ifcast_new/ifCast_app/views/profile/education_details.php on line 308
+[11-Oct-2019 10:21:32 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130547712 bytes) in /home/edunet/public_html/ifcast_new/ifCast_app/views/profile/education_details.php on line 308
+[11-Oct-2019 11:22:07 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130285568 bytes) in /home/edunet/public_html/ifcast_new/ifCast_app/views/profile/education_details.php on line 332
+[11-Oct-2019 11:22:14 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130285568 bytes) in /home/edunet/public_html/ifcast_new/ifCast_app/views/profile/education_details.php on line 332
+[11-Oct-2019 11:22:29 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130285568 bytes) in /home/edunet/public_html/ifcast_new/ifCast_app/views/profile/education_details.php on line 332
+[11-Oct-2019 11:22:53 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130285568 bytes) in /home/edunet/public_html/ifcast_new/ifCast_app/views/profile/education_details.php on line 332
+[11-Oct-2019 11:23:04 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130285568 bytes) in /home/edunet/public_html/ifcast_new/ifCast_app/views/profile/education_details.php on line 332
+[11-Oct-2019 11:23:09 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130285568 bytes) in /home/edunet/public_html/ifcast_new/ifCast_app/views/profile/education_details.php on line 332
+[11-Oct-2019 11:23:23 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130285568 bytes) in /home/edunet/public_html/ifcast_new/ifCast_app/views/profile/education_details.php on line 332
+[11-Oct-2019 11:23:31 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130285568 bytes) in /home/edunet/public_html/ifcast_new/ifCast_app/views/profile/education_details.php on line 332
+[11-Oct-2019 11:23:37 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130285568 bytes) in /home/edunet/public_html/ifcast_new/ifCast_app/views/profile/education_details.php on line 332
+[11-Oct-2019 11:23:41 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130285568 bytes) in /home/edunet/public_html/ifcast_new/ifCast_app/views/profile/education_details.php on line 332
+[11-Oct-2019 11:24:30 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130285568 bytes) in /home/edunet/public_html/ifcast_new/ifCast_app/views/profile/education_details.php on line 332
+[11-Oct-2019 12:06:41 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130285568 bytes) in /home/edunet/public_html/ifcast_new/ifCast_app/views/profile/education_details.php on line 314
+[13-Oct-2019 06:16:34 UTC] PHP Parse error:  syntax error, unexpected 'ifcast' (T_STRING), expecting ',' or ';' in /home/edunet/public_html/ifcast_new/ifCast_app/views/profile/dashboard.php on line 57
+[13-Oct-2019 06:16:36 UTC] PHP Parse error:  syntax error, unexpected 'ifcast' (T_STRING), expecting ',' or ';' in /home/edunet/public_html/ifcast_new/ifCast_app/views/profile/dashboard.php on line 57
+[13-Oct-2019 06:16:39 UTC] PHP Parse error:  syntax error, unexpected 'ifcast' (T_STRING), expecting ',' or ';' in /home/edunet/public_html/ifcast_new/ifCast_app/views/profile/dashboard.php on line 57
+[13-Oct-2019 06:17:43 UTC] PHP Parse error:  syntax error, unexpected 'ifcast' (T_STRING), expecting ',' or ';' in /home/edunet/public_html/ifcast_new/ifCast_app/views/profile/dashboard.php on line 57
+[13-Oct-2019 06:17:50 UTC] PHP Parse error:  syntax error, unexpected 'ifcast' (T_STRING), expecting ',' or ';' in /home/edunet/public_html/ifcast_new/ifCast_app/views/profile/dashboard.php on line 57
+[13-Oct-2019 06:59:32 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/edunet/public_html/ifcast_new/ifCast_app/models/Usermodel.php on line 33
+[13-Oct-2019 06:59:36 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/edunet/public_html/ifcast_new/ifCast_app/models/Usermodel.php on line 33
+[13-Oct-2019 13:37:06 UTC] PHP Fatal error:  Cannot redeclare Profile::alljobs() in /home/edunet/public_html/ifcast_new/ifCast_app/controllers/Profile.php on line 707
+[13-Oct-2019 13:37:09 UTC] PHP Fatal error:  Cannot redeclare Profile::alljobs() in /home/edunet/public_html/ifcast_new/ifCast_app/controllers/Profile.php on line 707
+[13-Oct-2019 13:37:12 UTC] PHP Fatal error:  Cannot redeclare Profile::alljobs() in /home/edunet/public_html/ifcast_new/ifCast_app/controllers/Profile.php on line 707
+[13-Oct-2019 13:37:26 UTC] PHP Fatal error:  Cannot redeclare Profile::alljobs() in /home/edunet/public_html/ifcast_new/ifCast_app/controllers/Profile.php on line 707
+[13-Oct-2019 13:37:31 UTC] PHP Fatal error:  Cannot redeclare Profile::alljobs() in /home/edunet/public_html/ifcast_new/ifCast_app/controllers/Profile.php on line 707
+[13-Oct-2019 13:37:33 UTC] PHP Fatal error:  Cannot redeclare Profile::alljobs() in /home/edunet/public_html/ifcast_new/ifCast_app/controllers/Profile.php on line 707
+[13-Oct-2019 13:37:52 UTC] PHP Fatal error:  Cannot redeclare Profile::alljobs() in /home/edunet/public_html/ifcast_new/ifCast_app/controllers/Profile.php on line 707
+[13-Oct-2019 13:37:55 UTC] PHP Fatal error:  Cannot redeclare Profile::alljobs() in /home/edunet/public_html/ifcast_new/ifCast_app/controllers/Profile.php on line 707
+[13-Oct-2019 13:37:57 UTC] PHP Fatal error:  Cannot redeclare Profile::alljobs() in /home/edunet/public_html/ifcast_new/ifCast_app/controllers/Profile.php on line 707
+[13-Oct-2019 13:38:22 UTC] PHP Fatal error:  Cannot redeclare Profile::alljobs() in /home/edunet/public_html/ifcast_new/ifCast_app/controllers/Profile.php on line 707
+[13-Oct-2019 13:38:56 UTC] PHP Fatal error:  Cannot redeclare Profile::alljobs() in /home/edunet/public_html/ifcast_new/ifCast_app/controllers/Profile.php on line 707
+[13-Oct-2019 13:39:02 UTC] PHP Fatal error:  Cannot redeclare Profile::alljobs() in /home/edunet/public_html/ifcast_new/ifCast_app/controllers/Profile.php on line 707
+[13-Oct-2019 13:39:12 UTC] PHP Fatal error:  Cannot redeclare Profile::alljobs() in /home/edunet/public_html/ifcast_new/ifCast_app/controllers/Profile.php on line 707
+[13-Oct-2019 13:39:16 UTC] PHP Fatal error:  Cannot redeclare Profile::alljobs() in /home/edunet/public_html/ifcast_new/ifCast_app/controllers/Profile.php on line 707
+[13-Oct-2019 13:39:17 UTC] PHP Fatal error:  Cannot redeclare Profile::alljobs() in /home/edunet/public_html/ifcast_new/ifCast_app/controllers/Profile.php on line 707
+[13-Oct-2019 13:39:17 UTC] PHP Fatal error:  Cannot redeclare Profile::alljobs() in /home/edunet/public_html/ifcast_new/ifCast_app/controllers/Profile.php on line 707
+[13-Oct-2019 13:39:17 UTC] PHP Fatal error:  Cannot redeclare Profile::alljobs() in /home/edunet/public_html/ifcast_new/ifCast_app/controllers/Profile.php on line 707
+[13-Oct-2019 13:39:51 UTC] PHP Fatal error:  Cannot redeclare Profile::alljobs() in /home/edunet/public_html/ifcast_new/ifCast_app/controllers/Profile.php on line 707
+[20-Oct-2019 16:59:36 UTC] PHP Fatal error:  Call to a member function row() on a non-object in /home/edunet/public_html/ifcast_new/ifCast_app/models/Mainmodel.php on line 81
+[20-Oct-2019 17:03:52 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/edunet/public_html/ifcast_new/ifCast_app/views/recruiter/jobpost.php on line 9
+[20-Oct-2019 17:41:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/edunet/public_html/ifcast_new/ifCast_app/views/recruiter/jobpost.php on line 536
+[20-Oct-2019 17:42:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/edunet/public_html/ifcast_new/ifCast_app/views/recruiter/jobpost.php on line 536
+[20-Oct-2019 17:44:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/edunet/public_html/ifcast_new/ifCast_app/views/recruiter/jobpost.php on line 536
+[20-Oct-2019 18:46:01 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/edunet/public_html/ifcast_new/ifCast_app/models/Mainmodel.php on line 53
